@@ -1,6 +1,6 @@
 # AliasWEB
 
-![AliasWEB Logo](static/pictures/logo-full.png)
+<img src="static/pictures/logo-full.png" alt="AliasWEB Logo" width="750" >
 
 AliasWEB – это сайт для популярной игры Эллиас, который предлагает множество креативных тематических паков с функцией добавления собственных.
 
@@ -10,7 +10,7 @@ AliasWEB – это сайт для популярной игры Эллиас, 
 AliasWEB подойдет для игры в больших компаниях и для тематических вечеринок, таких как студенческие встречи и корпоративы.
 
 ### Стек технологий
-![Technologies](static/pictures/list.png)
+<img src="static/pictures/list.png" alt="Technologies" width="200" >
 
 - **Верстка**: HTML, CSS, JavaScript
 - **Программирование**: Python, PHP
@@ -39,7 +39,7 @@ AliasWEB подходит для любых возрастов, особенно
 - Мобильная версия сайта
 
 ### Основные технические параметры
-![Check Mark](static/pictures/check%20mark.png)
+<img src="static/pictures/check%20mark.png" alt="Check Mark" width="200" >
 
 - Доходность: 10k рублей в месяц
 - Количество запросов: не менее 100 в секунду
@@ -68,6 +68,6 @@ AliasWEB подходит для любых возрастов, особенно
 ## Сроки выполнения работ
 **04.03.2024 – 31.05.2024**
 
-![Rocket](static/pictures/roket.png)
+<img src="static/pictures/roket.png" alt="Rocket" width="200">
 
 [Сайт проекта](https://provod69.pythonanywhere.com/)
