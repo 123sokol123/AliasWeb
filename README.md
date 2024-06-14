@@ -1,6 +1,6 @@
 # AliasWEB
 
-<img src="static/pictures/logow.png" alt="AliasWEB Logo" width="1000" >
+<img src="static/pictures/logoVV.png" alt="AliasWEB Logo" width="1000" >
 
 AliasWEB – это сайт для популярной игры Эллиас, который предлагает множество креативных тематических паков с функцией добавления собственных.
 
