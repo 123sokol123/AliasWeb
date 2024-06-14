@@ -68,6 +68,6 @@ AliasWEB подходит для любых возрастов, особенно
 ## Сроки выполнения работ
 **04.03.2024 – 31.05.2024**
 
-<img src="static/pictures/roket.png" alt="Rocket" width="200">
+<img src="static/pictures/roket_bl.png" alt="Rocket" width="200">
 
 [Сайт проекта](https://provod69.pythonanywhere.com/)
